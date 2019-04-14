@@ -1,7 +1,7 @@
-# project-lego-minifigs
-Experiment for generating Lego Minifigures using a Deep Convolutional Generative Adversarial Network
+# Project Lego minifigs
+### Experiment for generating Lego Minifigures using a Deep Convolutional Generative Adversarial Network
 
-This experiment was inspired while completing the [Face Generation](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/project-face-generation) project of the Udacity [Deep Learning](https://eu.udacity.com/course/deep-learning-nanodegree--nd101) course.
+This experiment was inspired while completing the [Face Generation](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/project-face-generation) project of the Udacity [Deep Learning](https://eu.udacity.com/course/deep-learning-nanodegree--nd101) nanodegree.
 
 The training data for this experiment was scraped from [blicklink](https://www.bricklink.com/catalogTree.asp?itemType=M&itemBrand=1000), and thus will not be published along with the code. I manually removed photos of unusual figures, those of low quality and or containing multiple figures. Then, as most photos did not have sufficient room to be cropped into a square, I scaled and padded the photos to 256x256 pixels. I ended up with a dataset of 6100+ photos. 
 
