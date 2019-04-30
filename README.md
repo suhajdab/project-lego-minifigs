@@ -9,7 +9,6 @@ The good: ![good](https://img.bricklink.com/ItemImage/MT/0/s011.t1.png)
 The bad: ![bad](https://img.bricklink.com/ItemImage/MT/0/cc4064.t1.png)
 The ugly: ![ugly](https://img.bricklink.com/ItemImage/MT/0/njo188.t1.png)
 
-While I've managed to generate some images that begin to look like minifigs, I'm not satisfied with the results.
-The images are still very blurry and the network exploded around 150 epochs, and never recovered.
+I've managed to generate some images that begin to look like minifigs, after 50 epochs. Will try longer training at some later point, but network fixes are showing some results!
 
-**Suggestions on how to overcome these issues would be much appreciated!**
+![50 epochs](https://i.imgur.com/WFRHBvQ.png)
